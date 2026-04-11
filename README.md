@@ -7,6 +7,7 @@ Currently I mostly work on Natural Language Processing and ML tasks due to my ca
 I mainly use c,c++, and python with use of sklearn and a bit of pytorch. 
 
 A couple fun facts:
+- I represented my college in the NASA Aerospace Scholars 2022! 
 - I have an extensive culinary background at restaurants such as The Strand House, Tin Roof Bistro, and Trump National Los Angeles!
 - I am an avid Baseball enjoyer!
 - I enjoy building fun personal projects that serve some unnessecesarily satisfying purpose :D
